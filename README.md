@@ -1,3 +1,4 @@
+WI Project
 ## Rendering Strategies Used
 
 - About Page → Static Rendering (SSG)
@@ -5,4 +6,4 @@
 - News Page → Hybrid Rendering (ISR)
 
 Static pages load fast, dynamic pages stay fresh,
-and hybrid pages balance speed and freshness.
+and hybrid pages balance speed and freshness
